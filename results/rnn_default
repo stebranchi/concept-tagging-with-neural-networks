@@ -1,0 +1,191 @@
+loading data
+total trainable parameters 109045
+training in dev mode
+----- Training epoch stats for epoch 0 -----
+Seconds for epoch:  11.535936
+Train error: 1.083491
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3317 phrases; correct: 649.
+accuracy:  75.67%; precision:  19.57%; recall:  19.88%; FB1:  19.72
+
+dev error: 0.514264
+dev stats:
+processed 4253 tokens with 653 phrases; found: 623 phrases; correct: 264.
+accuracy:  86.46%; precision:  42.38%; recall:  40.43%; FB1:  41.38
+
+----- Training epoch stats for epoch 1 -----
+Seconds for epoch:  12.643762
+Train error: 0.481230
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3648 phrases; correct: 1691.
+accuracy:  87.34%; precision:  46.35%; recall:  51.79%; FB1:  48.92
+
+dev error: 0.311466
+dev stats:
+processed 4253 tokens with 653 phrases; found: 681 phrases; correct: 425.
+accuracy:  91.42%; precision:  62.41%; recall:  65.08%; FB1:  63.72
+
+----- Training epoch stats for epoch 2 -----
+Seconds for epoch:  11.731486
+Train error: 0.390601
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3677 phrases; correct: 1979.
+accuracy:  89.34%; precision:  53.82%; recall:  60.61%; FB1:  57.02
+
+dev error: 0.258641
+dev stats:
+processed 4253 tokens with 653 phrases; found: 690 phrases; correct: 469.
+accuracy:  92.83%; precision:  67.97%; recall:  71.82%; FB1:  69.84
+
+----- Training epoch stats for epoch 3 -----
+Seconds for epoch:  11.688525
+Train error: 0.342772
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3672 phrases; correct: 2124.
+accuracy:  90.41%; precision:  57.84%; recall:  65.05%; FB1:  61.24
+
+dev error: 0.229254
+dev stats:
+processed 4253 tokens with 653 phrases; found: 681 phrases; correct: 479.
+accuracy:  93.46%; precision:  70.34%; recall:  73.35%; FB1:  71.81
+
+----- Training epoch stats for epoch 4 -----
+Seconds for epoch:  11.832265
+Train error: 0.308634
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3630 phrases; correct: 2188.
+accuracy:  91.08%; precision:  60.28%; recall:  67.01%; FB1:  63.47
+
+dev error: 0.196865
+dev stats:
+processed 4253 tokens with 653 phrases; found: 673 phrases; correct: 502.
+accuracy:  94.10%; precision:  74.59%; recall:  76.88%; FB1:  75.72
+
+----- Training epoch stats for epoch 5 -----
+Seconds for epoch:  11.713274
+Train error: 0.282885
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3623 phrases; correct: 2249.
+accuracy:  91.65%; precision:  62.08%; recall:  68.88%; FB1:  65.30
+
+dev error: 0.173902
+dev stats:
+processed 4253 tokens with 653 phrases; found: 680 phrases; correct: 520.
+accuracy:  94.90%; precision:  76.47%; recall:  79.63%; FB1:  78.02
+
+----- Training epoch stats for epoch 6 -----
+Seconds for epoch:  12.501066
+Train error: 0.276813
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3648 phrases; correct: 2280.
+accuracy:  91.54%; precision:  62.50%; recall:  69.83%; FB1:  65.96
+
+dev error: 0.162401
+dev stats:
+processed 4253 tokens with 653 phrases; found: 671 phrases; correct: 518.
+accuracy:  94.85%; precision:  77.20%; recall:  79.33%; FB1:  78.25
+
+----- Training epoch stats for epoch 7 -----
+Seconds for epoch:  11.776209
+Train error: 0.259130
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3674 phrases; correct: 2293.
+accuracy:  91.97%; precision:  62.41%; recall:  70.23%; FB1:  66.09
+
+dev error: 0.152957
+dev stats:
+processed 4253 tokens with 653 phrases; found: 687 phrases; correct: 531.
+accuracy:  94.99%; precision:  77.29%; recall:  81.32%; FB1:  79.25
+
+----- Training epoch stats for epoch 8 -----
+Seconds for epoch:  11.813935
+Train error: 0.246057
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3638 phrases; correct: 2333.
+accuracy:  92.38%; precision:  64.13%; recall:  71.45%; FB1:  67.59
+
+dev error: 0.145823
+dev stats:
+processed 4253 tokens with 653 phrases; found: 693 phrases; correct: 536.
+accuracy:  95.32%; precision:  77.34%; recall:  82.08%; FB1:  79.64
+
+----- Training epoch stats for epoch 9 -----
+Seconds for epoch:  11.930351
+Train error: 0.235135
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3627 phrases; correct: 2373.
+accuracy:  92.51%; precision:  65.43%; recall:  72.68%; FB1:  68.86
+
+dev error: 0.134614
+dev stats:
+processed 4253 tokens with 653 phrases; found: 682 phrases; correct: 539.
+accuracy:  95.56%; precision:  79.03%; recall:  82.54%; FB1:  80.75
+
+----- Training epoch stats for epoch 10 -----
+Seconds for epoch:  11.956655
+Train error: 0.235821
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3633 phrases; correct: 2376.
+accuracy:  92.64%; precision:  65.40%; recall:  72.77%; FB1:  68.89
+
+dev error: 0.145481
+dev stats:
+processed 4253 tokens with 653 phrases; found: 660 phrases; correct: 517.
+accuracy:  95.18%; precision:  78.33%; recall:  79.17%; FB1:  78.75
+
+----- Training epoch stats for epoch 11 -----
+Seconds for epoch:  12.391034
+Train error: 0.224208
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3610 phrases; correct: 2402.
+accuracy:  92.91%; precision:  66.54%; recall:  73.57%; FB1:  69.88
+
+dev error: 0.137093
+dev stats:
+processed 4253 tokens with 653 phrases; found: 664 phrases; correct: 522.
+accuracy:  95.34%; precision:  78.61%; recall:  79.94%; FB1:  79.27
+
+----- Training epoch stats for epoch 12 -----
+Seconds for epoch:  12.051525
+Train error: 0.226802
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3663 phrases; correct: 2363.
+accuracy:  92.58%; precision:  64.51%; recall:  72.37%; FB1:  68.22
+
+dev error: 0.135026
+dev stats:
+processed 4253 tokens with 653 phrases; found: 668 phrases; correct: 543.
+accuracy:  95.63%; precision:  81.29%; recall:  83.15%; FB1:  82.21
+
+----- Training epoch stats for epoch 13 -----
+Seconds for epoch:  11.735294
+Train error: 0.218221
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3593 phrases; correct: 2431.
+accuracy:  93.17%; precision:  67.66%; recall:  74.46%; FB1:  70.90
+
+dev error: 0.122006
+dev stats:
+processed 4253 tokens with 653 phrases; found: 699 phrases; correct: 566.
+accuracy:  96.05%; precision:  80.97%; recall:  86.68%; FB1:  83.73
+
+----- Training epoch stats for epoch 14 -----
+Seconds for epoch:  11.743820
+Train error: 0.211411
+Train stats:
+processed 21453 tokens with 3265 phrases; found: 3582 phrases; correct: 2432.
+accuracy:  93.23%; precision:  67.90%; recall:  74.49%; FB1:  71.04
+
+dev error: 0.123598
+dev stats:
+processed 4253 tokens with 653 phrases; found: 681 phrases; correct: 558.
+accuracy:  96.10%; precision:  81.94%; recall:  85.45%; FB1:  83.66
+
+total time
+236.01065587997437
+==================================================
+testing
+test error: 0.252060
+test stats:
+processed 7117 tokens with 1091 phrases; found: 1170 phrases; correct: 791.
+accuracy:  92.45%; precision:  67.61%; recall:  72.50%; FB1:  69.97
